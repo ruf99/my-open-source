@@ -1,0 +1,13 @@
+title: Open-Source Software
+email: rufaida.99khan@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi! Welcome to my blog, where I am documenting my journey with learning and understanding open-source software development and contributing to this wonderful community.
+baseurl: "/my-open-source" # the subpath of your site, e.g. /blog
+url: "https://ruf99.github.io/my-open-source/" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username: ruf99
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
