@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome to my blog! I'm Rufaida (Rufi), and I wanted to document my journey of understanding what open-source software is and all of my contributions towards it in the past months. I've had a wonderful time learning more about open source and have gained valuable insights and experiences along the way.
+Hello and welcome to my blog! I'm Rufaida Khan (Rufi), and I wanted to document my journey of understanding what open-source software is and all of my contributions towards it in the past months. I've had a wonderful time learning more about open source and have gained valuable insights and experiences along the way.
 
 On this blog, I aim to share my knowledge, discoveries, and the lessons I've learned while diving into the world of open source. I believe in the power of collaboration and community-driven development, and through my writing, I hope to inspire others to join the open-source movement.
 
