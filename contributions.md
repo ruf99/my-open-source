@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Open Source Contributions
+title: My Contributions
 permalink: /contributions/
 ---
 
